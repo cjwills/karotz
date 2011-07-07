@@ -1,0 +1,4 @@
+<screen>
+<text label="Line" name="line" default="43" validation="" required="true" errorMessage="" />
+<text label="Stop id" name="stopId" default="" validation="" required="true" errorMessage="" />
+</screen>
