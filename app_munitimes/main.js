@@ -4,8 +4,6 @@ include("tinyxmldom.js");
 var karotz_ip="localhost";
 //var karotz_ip="192.168.1.4"
 
-// tmp mesage
-
 var line = params[instanceName].line;
 var stopId = params[instanceName].stopId;
 //var line = '43';
